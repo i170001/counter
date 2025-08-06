@@ -20,7 +20,7 @@ collection = db["visits"]
 # paths
 BASE_GIF_PATH = "assets/boingdragon.gif"
 FONT_PATH = "assets/ComicRelief-Regular.ttf"
-FONT_SIZE = 8
+FONT_SIZE = 9
 
 @app.route("/")
 def home():
